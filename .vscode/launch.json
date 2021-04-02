@@ -1,6 +1,7 @@
 {
   "configurations": [
     {
+      "Saludo": "chao",
       "type": "node",
       "wass": "node",
       "request": "launch",
