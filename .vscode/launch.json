@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "Saludo": "wtf",
+      "Saludo": "ya no se q poner",
       "type": "node",
       "wass": "node",
       "request": "launch",
