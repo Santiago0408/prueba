@@ -1,6 +1,7 @@
 {
   "configurations": [
     {
+      "Saludo": "HOli",
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
