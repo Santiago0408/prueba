@@ -1,8 +1,8 @@
 {
   "configurations": [
     {
-      "Saludo": "HOli",
       "type": "node",
+      "wass": "node",
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": [
