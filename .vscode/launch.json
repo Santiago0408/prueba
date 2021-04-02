@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "Saludo": "HOli",
+      "Saludo": "chao",
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
