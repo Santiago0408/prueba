@@ -2,7 +2,8 @@
   "configurations": [
     {
       "Saludo": "hola",
-      "ero":"youtube",
+      "ero": "youtube",
+      "wwwww": "google",
       "type": "node",
       "wass": "node",
       "request": "launch",
