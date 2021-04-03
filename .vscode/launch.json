@@ -5,6 +5,7 @@
       "type": "node",
       "wass": "node",
       "request": "launch",
+      "santi": "santi",
       "name": "Launch Program",
       "skipFiles": [
         "<node_internals>/**"
