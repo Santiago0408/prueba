@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "Saludo": "ya",
+      "Saludo": "hola",
       "type": "node",
       "wass": "node",
       "request": "launch",
