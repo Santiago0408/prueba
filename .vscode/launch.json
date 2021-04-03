@@ -2,6 +2,7 @@
   "configurations": [
     {
       "Saludo": "hola",
+      "ero":"ssss",
       "type": "node",
       "wass": "node",
       "request": "launch",
